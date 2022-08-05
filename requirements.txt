@@ -1,0 +1,10 @@
+Flask==2.0.3
+gunicorn==19.9.0
+
+# You'll probably need to update this later
+# https://github.com/SeleniumHQ/selenium/releases
+selenium==4.3.0
+
+# You'll probably need to update this later
+# https://github.com/danielkaiser/python-chromedriver-binary/tags
+chromedriver-binary==v104.0.5112.79.0
